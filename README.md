@@ -4,7 +4,7 @@ This is a toy project to imitate the
 [really cool RGB-split drag effect](https://x.com/dankuntz/status/1813283813881225625)
 by [@dankuntz](https://x.com/dankuntz), and an excuse to play in Rust a little.
 
-![Video](media/doggo.mov)
+![Video](media/doggo.webm)
 
 ![The original tweet](media/x.png)
 
